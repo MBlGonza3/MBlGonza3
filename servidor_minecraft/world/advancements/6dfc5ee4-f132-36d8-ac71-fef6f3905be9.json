@@ -6304,21 +6304,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-07-17 00:48:34 +0000"
-    },
-    "done": true
-  },
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2025-07-17 00:25:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-07-17 00:45:05 +0000"
     },
     "done": true
   },
@@ -6328,15 +6316,27 @@
     },
     "done": true
   },
-  "moredelight:main/get_cooked_rice_with": {
-    "criteria": {
-      "cooked_rice_with_beef": "2025-07-17 00:55:42 +0000"
-    },
-    "done": true
-  },
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-07-17 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-17 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-17 00:48:34 +0000"
+    },
+    "done": true
+  },
+  "moredelight:main/get_cooked_rice_with": {
+    "criteria": {
+      "cooked_rice_with_beef": "2025-07-17 00:55:42 +0000"
     },
     "done": true
   },
