@@ -18,7 +18,9 @@
       "minecraft:river": "2025-07-02 00:27:27 +0000",
       "minecraft:dripstone_caves": "2025-07-02 02:28:30 +0000",
       "minecraft:swamp": "2025-07-06 03:37:11 +0000",
+      "minecraft:grove": "2025-07-17 00:10:32 +0000",
       "minecraft:forest": "2025-07-02 00:28:04 +0000",
+      "minecraft:meadow": "2025-07-17 00:07:57 +0000",
       "minecraft:plains": "2025-07-02 00:25:50 +0000"
     },
     "done": false
@@ -7135,6 +7137,18 @@
     },
     "done": true
   },
+  "frightsdelight:recipes/building_blocks/rotten_tomato_crate": {
+    "criteria": {
+      "has_rotten_tomato": "2025-07-16 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-07-16 03:36:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/apple_pie": {
     "criteria": {
       "has_pie_crust": "2025-07-16 03:45:34 +0000"
@@ -7147,27 +7161,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-07-16 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "frightsdelight:recipes/building_blocks/rotten_tomato_crate": {
-    "criteria": {
-      "has_rotten_tomato": "2025-07-16 03:07:26 +0000"
-    },
-    "done": true
-  },
   "rusticdelight:recipes/food/cherry_blossom_cheesecake": {
     "criteria": {
       "has_pie_crust": "2025-07-16 03:45:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+  "farmersdelight:recipes/food/sweet_berry_cheesecake": {
     "criteria": {
-      "has_warped_fungus": "2025-07-16 03:36:55 +0000"
+      "has_pie_crust": "2025-07-16 03:45:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-07-16 04:21:51 +0000"
     },
     "done": true
   },
@@ -7183,9 +7191,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/sweet_berry_cheesecake": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_pie_crust": "2025-07-16 03:45:34 +0000"
+      "has_snowball": "2025-07-17 00:10:42 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/ice_cream": {
+    "criteria": {
+      "has_snowball": "2025-07-17 00:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-17 00:10:42 +0000"
     },
     "done": true
   },

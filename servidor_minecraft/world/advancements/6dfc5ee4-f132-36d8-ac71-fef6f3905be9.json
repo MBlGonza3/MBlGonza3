@@ -1951,7 +1951,8 @@
   },
   "frightsdelight:main/frd_master": {
     "criteria": {
-      "has_web_on_stick": "2025-07-04 02:26:36 +0000"
+      "has_web_on_stick": "2025-07-04 02:26:36 +0000",
+      "has_bone_kebab_rotten_flesh": "2025-07-17 00:06:40 +0000"
     },
     "done": false
   },
