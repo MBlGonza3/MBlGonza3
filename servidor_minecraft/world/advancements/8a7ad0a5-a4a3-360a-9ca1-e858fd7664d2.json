@@ -9065,9 +9065,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-17 00:37:46 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/food/ice_cream": {
     "criteria": {
       "has_snowball": "2025-07-17 00:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-17 00:35:11 +0000"
     },
     "done": true
   },
