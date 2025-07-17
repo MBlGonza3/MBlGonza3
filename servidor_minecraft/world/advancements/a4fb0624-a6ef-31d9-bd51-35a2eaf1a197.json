@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-07-02 00:28:02 +0000",
+      "minecraft:mangrove_swamp": "2025-07-16 04:35:01 +0000",
       "minecraft:river": "2025-07-02 00:27:27 +0000",
       "minecraft:dripstone_caves": "2025-07-02 02:28:30 +0000",
       "minecraft:swamp": "2025-07-06 03:37:11 +0000",
@@ -5686,6 +5687,7 @@
       "shepherds_pie": "2025-07-02 21:13:59 +0000",
       "bone_broth": "2025-07-04 01:03:12 +0000",
       "roast_chicken": "2025-07-04 02:03:38 +0000",
+      "roasted_mutton_chops": "2025-07-16 04:34:31 +0000",
       "pasta_with_meatballs": "2025-07-06 00:22:23 +0000",
       "bacon_and_eggs": "2025-07-06 03:01:17 +0000"
     },
@@ -7130,6 +7132,60 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-07-06 04:52:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/apple_pie": {
+    "criteria": {
+      "has_pie_crust": "2025-07-16 03:45:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chocolate_pie": {
+    "criteria": {
+      "has_pie_crust": "2025-07-16 03:45:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-07-16 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:recipes/building_blocks/rotten_tomato_crate": {
+    "criteria": {
+      "has_rotten_tomato": "2025-07-16 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cherry_blossom_cheesecake": {
+    "criteria": {
+      "has_pie_crust": "2025-07-16 03:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-07-16 03:36:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-07-16 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-07-16 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cheesecake": {
+    "criteria": {
+      "has_pie_crust": "2025-07-16 03:45:34 +0000"
     },
     "done": true
   },
