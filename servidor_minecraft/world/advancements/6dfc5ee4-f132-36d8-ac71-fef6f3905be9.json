@@ -2501,6 +2501,7 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "mushroom_rice": "2025-07-06 01:09:38 +0000",
+      "beef_stew": "2025-07-17 02:09:07 +0000",
       "roast_chicken": "2025-07-04 03:43:56 +0000",
       "roasted_mutton_chops": "2025-07-16 04:56:33 +0000",
       "pasta_with_meatballs": "2025-07-04 04:35:22 +0000"
@@ -6347,6 +6348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-07-17 01:34:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2025-07-17 01:40:58 +0000"
@@ -6359,9 +6366,204 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+  "farm_and_charm:recipes/cooking_pot": {
     "criteria": {
-      "has_deepslate_diamond_ore": "2025-07-17 01:34:14 +0000"
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/mud_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/quartz_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-17 02:58:24 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/plow": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/mincer": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/bread_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-07-17 02:09:07 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/iron_chair": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/faucet": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/granite_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/roaster": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2025-07-17 02:07:34 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandstone_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2025-07-17 02:07:34 +0000",
+      "wild_strawberry": "2025-07-17 02:07:34 +0000",
+      "corn": "2025-07-17 02:07:34 +0000",
+      "onion": "2025-07-17 02:07:34 +0000",
+      "wild_corn": "2025-07-17 02:07:34 +0000",
+      "wild_ribwort": "2025-07-17 02:07:34 +0000",
+      "strawberry": "2025-07-17 02:07:34 +0000",
+      "wild_nettle": "2025-07-17 02:07:34 +0000",
+      "barley": "2025-07-17 02:07:34 +0000",
+      "tomato": "2025-07-17 02:07:34 +0000",
+      "lettuce": "2025-07-17 02:07:34 +0000",
+      "wild_lettuce": "2025-07-17 02:07:34 +0000",
+      "wild_tomatoes": "2025-07-17 02:07:34 +0000",
+      "oat_seeds": "2025-07-17 02:07:34 +0000",
+      "tomato_seeds": "2025-07-17 02:07:34 +0000",
+      "barley_seeds": "2025-07-17 02:07:34 +0000",
+      "strawberry_seeds": "2025-07-17 02:07:34 +0000",
+      "lettuce_seeds": "2025-07-17 02:07:34 +0000",
+      "kernels": "2025-07-17 02:07:34 +0000",
+      "wild_barley": "2025-07-17 02:07:34 +0000",
+      "wild_onion": "2025-07-17 02:07:34 +0000",
+      "wild_oat": "2025-07-17 02:07:34 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/small_cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-17 02:58:24 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/kitchen_sink": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/supply_cart": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/red_nether_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2025-07-17 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cobblestone_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/iron_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/deepslate_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/feeding_trough": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/end_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/water_sprinkler": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/crafting_bowl": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/toolrack": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/stone_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
     },
     "done": true
   },
