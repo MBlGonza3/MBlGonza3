@@ -8469,6 +8469,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-07-18 05:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-07-18 03:55:43 +0000"
@@ -8919,6 +8925,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-07-18 05:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-07-18 04:37:18 +0000"
@@ -8994,6 +9006,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-07-18 03:07:41 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/place_feeding_trough": {
+    "criteria": {
+      "place_feeding_trough": "2025-07-18 05:50:16 +0000"
     },
     "done": true
   },
