@@ -8505,9 +8505,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_cushion_from_light_blue_dye": {
+    "criteria": {
+      "has_light_blue_cushion": "2025-07-18 04:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_cushion_from_magenta_dye": {
+    "criteria": {
+      "has_magenta_cushion": "2025-07-18 04:31:32 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/mincer": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_cushion_from_purple_dye": {
+    "criteria": {
+      "has_purple_cushion": "2025-07-18 04:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_cushion_from_green_dye": {
+    "criteria": {
+      "has_green_cushion": "2025-07-18 04:31:32 +0000"
     },
     "done": true
   },
@@ -8526,6 +8550,12 @@
   "supplementaries:recipes/daub_cross_brace": {
     "criteria": {
       "has_daub": "2025-07-18 03:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_cushion_from_yellow_dye": {
+    "criteria": {
+      "has_yellow_cushion": "2025-07-18 04:31:32 +0000"
     },
     "done": true
   },
@@ -8559,6 +8589,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_cushion_from_pink_dye": {
+    "criteria": {
+      "has_pink_cushion": "2025-07-18 04:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_cushion_from_blue_dye": {
+    "criteria": {
+      "has_blue_cushion": "2025-07-18 04:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_cushion_from_orange_dye": {
+    "criteria": {
+      "has_orange_cushion": "2025-07-18 04:31:32 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/roaster": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
@@ -8574,6 +8622,18 @@
   "farm_and_charm:recipes/pitchfork": {
     "criteria": {
       "has_iron_nugget": "2025-07-18 03:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_cushion_from_cyan_dye": {
+    "criteria": {
+      "has_cyan_cushion": "2025-07-18 04:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_cushion_from_brown_dye": {
+    "criteria": {
+      "has_brown_cushion": "2025-07-18 04:31:32 +0000"
     },
     "done": true
   },
@@ -8631,6 +8691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_cushion_from_red_dye": {
+    "criteria": {
+      "has_red_cushion": "2025-07-18 04:31:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_mud_bricks": "2025-07-18 03:55:43 +0000"
@@ -8676,6 +8742,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-18 04:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_cushion_from_gray_dye": {
+    "criteria": {
+      "has_gray_cushion": "2025-07-18 04:31:32 +0000"
     },
     "done": true
   },
@@ -8739,6 +8811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_cushion_from_white_dye": {
+    "criteria": {
+      "has_white_cushion": "2025-07-18 04:31:32 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/end_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
@@ -8757,9 +8835,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_cushion_from_black_dye": {
+    "criteria": {
+      "has_black_cushion": "2025-07-18 04:31:32 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/crafting_bowl": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_cushion_from_lime_dye": {
+    "criteria": {
+      "has_lime_cushion": "2025-07-18 04:31:32 +0000"
     },
     "done": true
   },
@@ -8778,6 +8868,12 @@
   "bakery:recipes/bread_basket": {
     "criteria": {
       "has_tray": "2025-07-18 03:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_cushion_from_light_gray_dye": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-07-18 04:31:32 +0000"
     },
     "done": true
   },
