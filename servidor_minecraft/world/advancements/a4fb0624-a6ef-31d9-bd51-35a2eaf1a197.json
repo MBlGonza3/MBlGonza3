@@ -8553,6 +8553,12 @@
     },
     "done": true
   },
+  "reinfchest:recipes/decorations/diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-07-18 05:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_cushion_from_green_dye": {
     "criteria": {
       "has_green_cushion": "2025-07-18 04:31:32 +0000"
@@ -8730,6 +8736,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-07-18 03:07:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-07-18 05:18:23 +0000"
     },
     "done": true
   },
