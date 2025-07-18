@@ -8451,6 +8451,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-07-18 04:04:13 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/place_stove": {
+    "criteria": {
+      "stove": "2025-07-18 04:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-07-18 04:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-18 03:55:43 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/mud_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
@@ -8463,9 +8487,21 @@
     },
     "done": true
   },
+  "bakery:main/place_stove": {
+    "criteria": {
+      "stove": "2025-07-18 04:00:27 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/plow": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:dupeores": {
+    "criteria": {
+      "dupeores": "2025-07-18 03:57:14 +0000"
     },
     "done": true
   },
@@ -8487,9 +8523,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub_cross_brace": {
+    "criteria": {
+      "has_daub": "2025-07-18 03:56:45 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/iron_chair": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-07-18 04:04:13 +0000"
     },
     "done": true
   },
@@ -8505,9 +8553,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-18 03:55:43 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/roaster": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2025-07-18 04:04:13 +0000"
     },
     "done": true
   },
@@ -8517,9 +8577,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-18 03:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-18 04:04:13 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/sandstone_stove": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-18 04:04:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-07-18 04:02:30 +0000"
     },
     "done": true
   },
@@ -8535,9 +8619,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-07-18 04:04:13 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/kitchen_sink": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-18 03:55:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2025-07-18 04:04:13 +0000"
     },
     "done": true
   },
@@ -8547,9 +8649,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-18 03:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-18 04:04:13 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/red_nether_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-07-18 04:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-18 04:04:13 +0000"
     },
     "done": true
   },
@@ -8559,15 +8685,51 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub_brace": {
+    "criteria": {
+      "has_daub": "2025-07-18 03:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-18 03:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-07-18 04:04:13 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/iron_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/daub_frame": {
+    "criteria": {
+      "has_daub": "2025-07-18 03:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-18 04:04:13 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/deepslate_stove": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-18 04:04:13 +0000"
     },
     "done": true
   },
@@ -8589,6 +8751,12 @@
     },
     "done": true
   },
+  "bakery:recipes/bread_crate": {
+    "criteria": {
+      "has_tray": "2025-07-18 03:58:52 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/crafting_bowl": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
@@ -8604,6 +8772,12 @@
   "farm_and_charm:recipes/toolrack": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:07:49 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/bread_basket": {
+    "criteria": {
+      "has_tray": "2025-07-18 03:58:52 +0000"
     },
     "done": true
   },
