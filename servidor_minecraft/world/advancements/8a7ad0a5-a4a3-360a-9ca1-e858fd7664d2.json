@@ -9927,6 +9927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-18 04:09:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-07-18 04:05:39 +0000"
@@ -9963,6 +9969,12 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/pitchfork": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-18 04:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-18 04:05:39 +0000"
@@ -9990,6 +10002,18 @@
   "bakery:recipes/chocolate_box": {
     "criteria": {
       "has_oak_planks": "2025-07-18 02:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-18 04:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-18 04:09:09 +0000"
     },
     "done": true
   },
@@ -10038,6 +10062,12 @@
   "bakery:recipes/tray": {
     "criteria": {
       "has_oak_planks": "2025-07-18 02:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-18 04:09:09 +0000"
     },
     "done": true
   },
