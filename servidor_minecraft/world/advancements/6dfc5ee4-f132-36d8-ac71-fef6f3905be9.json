@@ -6366,87 +6366,9 @@
     },
     "done": true
   },
-  "farm_and_charm:recipes/cooking_pot": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/mud_bricks_stove": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/quartz_stove": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_sword": "2025-07-17 02:58:24 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/plow": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/mincer": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/bread_knife": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-07-17 02:09:07 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/iron_chair": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/faucet": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/granite_stove": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/roaster": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
-    },
-    "done": true
-  },
   "bakery:main/root": {
     "criteria": {
       "seeds": "2025-07-17 02:07:34 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/sandstone_stove": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
     },
     "done": true
   },
@@ -6477,15 +6399,87 @@
     },
     "done": true
   },
-  "bakery:recipes/small_cooking_pot": {
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2025-07-17 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-07-17 02:09:07 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-07-17 02:17:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "bakery:recipes/mud_bricks_stove": {
     "criteria": {
-      "has_golden_sword": "2025-07-17 02:58:24 +0000"
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/quartz_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/plow": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/mincer": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/bread_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/iron_chair": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/faucet": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/granite_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/roaster": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandstone_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/small_cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-17 02:17:30 +0000"
     },
     "done": true
   },
@@ -6504,12 +6498,6 @@
   "bakery:recipes/red_nether_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-07-17 02:17:30 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:main/root": {
-    "criteria": {
-      "example_criterion": "2025-07-17 02:07:35 +0000"
     },
     "done": true
   },
@@ -6564,6 +6552,18 @@
   "bakery:recipes/stone_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-07-17 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-17 02:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-17 02:58:24 +0000"
     },
     "done": true
   },
