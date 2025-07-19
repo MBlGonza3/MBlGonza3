@@ -1,0 +1,696 @@
+{
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/platinum_furnace": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/copper_forge": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/platinum_netherhot_furnace": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/copper_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/blasting_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/platinum_forge": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/advanced_fuel_efficiency_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-19 00:42:06 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/gold_forge": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/advanced_ore_processing_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/copper_furnace": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-19 00:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 00:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-07-19 00:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/extreme_furnace": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/netherhot_conductor_block": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-07-19 00:42:06 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/amethyst_forge": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/ultimate_furnace": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/extreme_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "moredelight:combat/stone_knife": {
+    "criteria": {
+      "has_stone": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-19 00:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/diamond_forge": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/gold_conductor_block": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-19 00:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/ore_processing_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/extreme_forge": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/steel_forge": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/netherhot_forge": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/ultimate_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-19 00:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/platinum_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-19 00:42:06 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/steel_furnace": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/factory_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/steel_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/iron_forge": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2025-07-19 00:42:05 +0000",
+      "wild_strawberry": "2025-07-19 00:42:05 +0000",
+      "corn": "2025-07-19 00:42:05 +0000",
+      "onion": "2025-07-19 00:42:05 +0000",
+      "wild_corn": "2025-07-19 00:42:05 +0000",
+      "wild_ribwort": "2025-07-19 00:42:05 +0000",
+      "strawberry": "2025-07-19 00:42:05 +0000",
+      "wild_nettle": "2025-07-19 00:42:05 +0000",
+      "barley": "2025-07-19 00:42:05 +0000",
+      "tomato": "2025-07-19 00:42:05 +0000",
+      "lettuce": "2025-07-19 00:42:05 +0000",
+      "wild_lettuce": "2025-07-19 00:42:05 +0000",
+      "wild_tomatoes": "2025-07-19 00:42:05 +0000",
+      "oat_seeds": "2025-07-19 00:42:05 +0000",
+      "tomato_seeds": "2025-07-19 00:42:05 +0000",
+      "barley_seeds": "2025-07-19 00:42:05 +0000",
+      "strawberry_seeds": "2025-07-19 00:42:05 +0000",
+      "lettuce_seeds": "2025-07-19 00:42:05 +0000",
+      "kernels": "2025-07-19 00:42:05 +0000",
+      "wild_barley": "2025-07-19 00:42:05 +0000",
+      "wild_onion": "2025-07-19 00:42:05 +0000",
+      "wild_oat": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/amethyst_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-19 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/iron_conductor_block": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-19 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/gold_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/amethyst_diamond_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/color_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/amethyst_furnace": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-19 00:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/ultimate_ore_processing_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/diamond_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/netherhot_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2025-07-19 00:40:53 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/ultimate_forge": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/diamond_furnace": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-07-19 00:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-07-19 00:42:11 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/copper_iron_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "trailandtales_delight:tat_delight": {
+    "criteria": {
+      "trail_and_tales": "2025-07-19 00:40:52 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/cobblestone_generator": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-19 00:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/iron_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-19 00:42:11 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/netherhot_furnace": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/iron_furnace": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/raw_ore_processing_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-19 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/steel_gold_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dripstone_caves": "2025-07-19 00:41:54 +0000"
+    },
+    "done": false
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-07-19 00:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/gold_furnace": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-19 00:42:09 +0000"
+    },
+    "done": true
+  },
+  "moredelight:main/root": {
+    "criteria": {
+      "seeds": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
