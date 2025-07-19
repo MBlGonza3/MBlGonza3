@@ -47,6 +47,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-19 00:55:13 +0000",
+      "minecraft:basalt_deltas": "2025-07-19 00:53:14 +0000",
+      "minecraft:warped_forest": "2025-07-19 00:55:07 +0000"
+    },
+    "done": false
+  },
   "betterfurnacesreforged:recipes/advanced_fuel_efficiency_upgrade": {
     "criteria": {
       "has_ingredient": "2025-07-19 00:42:05 +0000"
@@ -113,6 +121,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-19 00:58:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-19 00:42:10 +0000"
@@ -134,6 +148,12 @@
   "betterfurnacesreforged:recipes/netherhot_conductor_block": {
     "criteria": {
       "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/chicken_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-19 00:54:51 +0000"
     },
     "done": true
   },
@@ -329,6 +349,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-19 00:55:13 +0000"
+    },
+    "done": true
+  },
   "betterfurnacesreforged:recipes/iron_forge": {
     "criteria": {
       "has_ingredient": "2025-07-19 00:42:05 +0000"
@@ -371,6 +397,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-07-19 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-19 00:54:51 +0000"
     },
     "done": true
   },
@@ -425,6 +457,12 @@
   "betterfurnacesreforged:recipes/gold_upgrade": {
     "criteria": {
       "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-19 00:53:14 +0000"
     },
     "done": true
   },
@@ -518,6 +556,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-19 00:54:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
@@ -590,6 +634,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-19 00:53:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-19 00:42:07 +0000"
@@ -602,15 +652,34 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-19 00:54:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-19 00:42:11 +0000"
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "mushroom_rice": "2025-07-19 00:56:39 +0000",
+      "roast_chicken": "2025-07-19 00:54:51 +0000"
+    },
+    "done": false
+  },
   "betterfurnacesreforged:recipes/netherhot_furnace": {
     "criteria": {
       "has_ingredient": "2025-07-19 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-07-19 00:54:51 +0000"
     },
     "done": true
   },
@@ -646,7 +715,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:dripstone_caves": "2025-07-19 00:41:54 +0000"
+      "minecraft:cherry_grove": "2025-07-19 00:54:22 +0000",
+      "minecraft:dripstone_caves": "2025-07-19 00:41:54 +0000",
+      "minecraft:swamp": "2025-07-19 00:53:33 +0000",
+      "minecraft:snowy_beach": "2025-07-19 00:54:36 +0000"
     },
     "done": false
   },
@@ -659,6 +731,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-19 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-19 00:54:51 +0000"
     },
     "done": true
   },
