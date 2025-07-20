@@ -1,6 +1,6 @@
-[23:53:14] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
-[23:53:14] [INIT] Loaded plugins:
-[23:53:14] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
-[23:53:14] [INFO] Loaded 0/0 KubeJS server scripts in 0.017 s with 0 errors and 0 warnings
-[23:53:14] [INFO] Scripts loaded
-[23:53:44] [INFO] Server resource reload complete!
+[02:44:43] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[02:44:43] [INIT] Loaded plugins:
+[02:44:43] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[02:44:43] [INFO] Loaded 0/0 KubeJS server scripts in 0.018 s with 0 errors and 0 warnings
+[02:44:43] [INFO] Scripts loaded
+[02:45:10] [INFO] Server resource reload complete!

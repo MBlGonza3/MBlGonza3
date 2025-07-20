@@ -14,15 +14,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-17 02:20:18 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-07-19 04:28:14 +0000",
       "minecraft:cherry_grove": "2025-07-02 00:28:02 +0000",
+      "minecraft:bamboo_jungle": "2025-07-19 04:24:10 +0000",
       "minecraft:beach": "2025-07-17 02:33:29 +0000",
+      "minecraft:dark_forest": "2025-07-19 04:25:23 +0000",
       "minecraft:mangrove_swamp": "2025-07-16 04:35:01 +0000",
+      "minecraft:sparse_jungle": "2025-07-19 04:18:59 +0000",
       "minecraft:river": "2025-07-02 00:27:27 +0000",
       "minecraft:snowy_plains": "2025-07-17 02:33:45 +0000",
       "minecraft:dripstone_caves": "2025-07-02 02:28:30 +0000",
       "minecraft:swamp": "2025-07-06 03:37:11 +0000",
       "minecraft:grove": "2025-07-17 00:10:32 +0000",
       "minecraft:forest": "2025-07-02 00:28:04 +0000",
+      "minecraft:windswept_forest": "2025-07-19 04:24:47 +0000",
+      "minecraft:jungle": "2025-07-19 04:25:24 +0000",
       "minecraft:snowy_beach": "2025-07-17 02:33:41 +0000",
       "minecraft:frozen_peaks": "2025-07-17 02:20:33 +0000",
       "minecraft:meadow": "2025-07-17 00:07:57 +0000",
@@ -5698,10 +5704,13 @@
       "bone_broth": "2025-07-04 01:03:12 +0000",
       "beef_stew": "2025-07-17 02:07:43 +0000",
       "roast_chicken": "2025-07-04 02:03:38 +0000",
+      "honey_glazed_ham": "2025-07-19 04:26:41 +0000",
       "roasted_mutton_chops": "2025-07-16 04:34:31 +0000",
+      "squid_ink_pasta": "2025-07-19 04:13:16 +0000",
       "pasta_with_meatballs": "2025-07-06 00:22:23 +0000",
       "vegetable_noodles": "2025-07-17 03:55:26 +0000",
-      "bacon_and_eggs": "2025-07-06 03:01:17 +0000"
+      "bacon_and_eggs": "2025-07-06 03:01:17 +0000",
+      "fried_rice": "2025-07-19 03:22:08 +0000"
     },
     "done": false
   },
@@ -8423,24 +8432,33 @@
   "bakery:main/get_everything": {
     "criteria": {
       "bakery:sweetberry_jam": "2025-07-17 06:36:15 +0000",
-      "bakery:sweetberry_cake": "2025-07-17 06:36:23 +0000"
+      "bakery:sandwich": "2025-07-19 01:28:58 +0000",
+      "bakery:chocolate_jam": "2025-07-19 01:25:09 +0000",
+      "bakery:chocolate_cake": "2025-07-19 01:51:18 +0000",
+      "bakery:sweetberry_cake": "2025-07-17 06:36:23 +0000",
+      "bakery:jam_roll": "2025-07-19 04:02:58 +0000",
+      "bakery:apple_jam": "2025-07-19 03:41:32 +0000"
     },
     "done": false
   },
   "bakery:main/get_all_jams": {
     "criteria": {
-      "bakery:sweetberry_jam": "2025-07-17 06:36:15 +0000"
+      "bakery:sweetberry_jam": "2025-07-17 06:36:15 +0000",
+      "bakery:chocolate_jam": "2025-07-19 01:25:09 +0000",
+      "bakery:apple_jam": "2025-07-19 03:41:32 +0000"
     },
     "done": false
   },
   "bakery:main/get_all_cakes": {
     "criteria": {
+      "bakery:chocolate_cake": "2025-07-19 01:51:18 +0000",
       "bakery:sweetberry_cake": "2025-07-17 06:36:23 +0000"
     },
     "done": false
   },
   "bakery:main/get_all_caked_goods": {
     "criteria": {
+      "bakery:chocolate_cake": "2025-07-19 01:51:18 +0000",
       "bakery:sweetberry_cake": "2025-07-17 06:36:23 +0000"
     },
     "done": false
@@ -9044,6 +9062,201 @@
       "place_feeding_trough": "2025-07-18 05:50:16 +0000"
     },
     "done": true
+  },
+  "farm_and_charm:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-07-19 01:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-19 02:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-19 02:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-19 02:28:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-19 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-19 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-19 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-19 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/vegetable_pancakes": {
+    "criteria": {
+      "has_batter": "2025-07-19 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/honey_pancakes": {
+    "criteria": {
+      "has_batter": "2025-07-19 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cherry_blossom_pancakes": {
+    "criteria": {
+      "has_batter": "2025-07-19 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/chocolate_pancakes": {
+    "criteria": {
+      "has_batter": "2025-07-19 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/fried_chicken": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 02:49:50 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/fried_mushrooms": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 02:49:50 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/spring_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 02:49:50 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/fried_calamari": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 02:49:50 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/fried_egg_from_cooking_oil": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 02:49:50 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/fruit_beignet": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 02:49:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-07-19 03:18:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-07-19 03:18:06 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/shroomlight_slab": {
+    "criteria": {
+      "has_wood": "2025-07-19 03:18:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-07-19 03:18:06 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/cooking/magma_gelatin": {
+    "criteria": {
+      "has_propelpearl": "2025-07-19 03:18:10 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/propelplant_torch": {
+    "criteria": {
+      "has_propelplant": "2025-07-19 03:18:10 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/nether_skewer": {
+    "criteria": {
+      "has_propelpearl": "2025-07-19 03:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-19 03:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-19 03:18:29 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_display": {
+    "criteria": {
+      "has_glass_pane": "2025-07-19 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/jar": {
+    "criteria": {
+      "has_glass_pane": "2025-07-19 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/cook_everything": {
+    "criteria": {
+      "farm_and_charm:potato_soup": "2025-07-19 05:27:01 +0000"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/make_everything": {
+    "criteria": {
+      "farm_and_charm:stuffed_chicken": "2025-07-19 05:34:41 +0000",
+      "farm_and_charm:potato_soup": "2025-07-19 05:27:01 +0000",
+      "farm_and_charm:baked_lamb_ham": "2025-07-19 05:30:53 +0000"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/bake_everything": {
+    "criteria": {
+      "farm_and_charm:baked_lamb_ham": "2025-07-19 05:30:53 +0000",
+      "farm_and_charm:stuffed_chicken": "2025-07-19 05:34:41 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
