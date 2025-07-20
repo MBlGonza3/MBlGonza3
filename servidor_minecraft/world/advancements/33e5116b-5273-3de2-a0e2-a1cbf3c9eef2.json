@@ -2877,48 +2877,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2025-07-19 04:08:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-07-19 05:28:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-07-19 04:15:35 +0000"
-    },
-    "done": true
-  },
-  "frightsdelight:main/get_monster_drop": {
-    "criteria": {
-      "has_rotten_flesh": "2025-07-19 04:08:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-19 05:28:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-07-19 04:31:17 +0000"
-    },
-    "done": true
-  },
-  "bakery:main/get_everything": {
-    "criteria": {
-      "bakery:chocolate_cake": "2025-07-19 03:50:14 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-19 03:44:03 +0000"
@@ -2931,55 +2889,83 @@
     },
     "done": true
   },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-07-19 04:27:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-07-19 04:20:18 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_jungle": {
-    "criteria": {
-      "has_jungle_sign": "2025-07-19 04:12:36 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:main/cook_everything": {
-    "criteria": {
-      "farm_and_charm:potato_soup": "2025-07-19 05:28:29 +0000"
-    },
-    "done": false
-  },
-  "frightsdelight:recipes/food/cookie_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2025-07-19 04:08:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-07-19 05:28:12 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "has_string": "2025-07-19 03:44:03 +0000"
     },
     "done": true
   },
-  "farm_and_charm:main/make_everything": {
+  "supplementaries:recipes/sack": {
     "criteria": {
-      "farm_and_charm:stuffed_chicken": "2025-07-19 05:34:50 +0000",
-      "farm_and_charm:potato_soup": "2025-07-19 05:28:29 +0000",
-      "farm_and_charm:baked_lamb_ham": "2025-07-19 05:31:22 +0000"
+      "has_string": "2025-07-19 03:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-19 03:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-19 03:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-19 03:44:03 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/rain_collector": {
+    "criteria": {
+      "has_string": "2025-07-19 03:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-19 03:44:03 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_everything": {
+    "criteria": {
+      "bakery:chocolate_cake": "2025-07-19 03:50:14 +0000"
     },
     "done": false
+  },
+  "bakery:main/get_all_cakes": {
+    "criteria": {
+      "bakery:chocolate_cake": "2025-07-19 03:50:14 +0000"
+    },
+    "done": false
+  },
+  "bakery:main/get_all_caked_goods": {
+    "criteria": {
+      "bakery:chocolate_cake": "2025-07-19 03:50:14 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-19 04:08:16 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:main/get_monster_drop": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-19 04:08:16 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:recipes/food/cookie_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-19 04:08:16 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/cooking/undead_kebab": {
     "criteria": {
@@ -2999,57 +2985,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sack": {
-    "criteria": {
-      "has_string": "2025-07-19 03:44:03 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-07-19 04:08:16 +0000"
-    },
-    "done": true
-  },
-  "bakery:main/get_all_cakes": {
-    "criteria": {
-      "bakery:chocolate_cake": "2025-07-19 03:50:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-07-19 04:31:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-07-19 05:28:12 +0000"
-    },
-    "done": true
-  },
-  "frightsdelight:recipes/building_blocks/bone_crate": {
-    "criteria": {
-      "has_bone": "2025-07-19 04:09:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-07-19 03:44:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
-    "criteria": {
-      "has_bone": "2025-07-19 04:09:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-07-19 03:44:03 +0000"
     },
     "done": true
   },
@@ -3059,46 +2997,9 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-07-19 05:02:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-07-19 04:09:57 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:main/bake_everything": {
-    "criteria": {
-      "farm_and_charm:baked_lamb_ham": "2025-07-19 05:31:22 +0000",
-      "farm_and_charm:stuffed_chicken": "2025-07-19 05:34:50 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/bone_broth": {
-    "criteria": {
-      "has_bone": "2025-07-19 04:09:57 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/soup_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-07-19 04:08:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-07-19 04:20:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-07-19 03:44:03 +0000"
     },
     "done": true
   },
@@ -3108,9 +3009,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "frightsdelight:recipes/building_blocks/bone_crate": {
     "criteria": {
-      "has_blaze_rod": "2025-07-19 04:31:17 +0000"
+      "has_bone": "2025-07-19 04:09:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-07-19 04:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-19 04:09:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-19 04:09:57 +0000"
     },
     "done": true
   },
@@ -3120,21 +3039,45 @@
     },
     "done": true
   },
-  "toughasnails:recipes/decorations/rain_collector": {
+  "supplementaries:recipes/sign_post_jungle": {
     "criteria": {
-      "has_string": "2025-07-19 03:44:03 +0000"
+      "has_jungle_sign": "2025-07-19 04:12:36 +0000"
     },
     "done": true
   },
-  "bakery:main/get_all_caked_goods": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "bakery:chocolate_cake": "2025-07-19 03:50:14 +0000"
+      "deflected_projectile": "2025-07-19 04:15:35 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "has_string": "2025-07-19 03:44:03 +0000"
+      "has_pointed_dripstone": "2025-07-19 04:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-19 04:20:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-07-19 04:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-19 04:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-19 04:31:17 +0000"
     },
     "done": true
   },
@@ -3144,11 +3087,68 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-19 04:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-19 05:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-19 05:28:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 05:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-19 05:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-19 05:28:12 +0000"
+    },
+    "done": true
+  },
   "moredelight:recipes/cooking/creamy_pasta_with_chicken_cuts": {
     "criteria": {
       "has_any_ingredient": "2025-07-19 05:28:12 +0000"
     },
     "done": true
+  },
+  "farm_and_charm:main/cook_everything": {
+    "criteria": {
+      "farm_and_charm:potato_soup": "2025-07-19 05:28:29 +0000"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/make_everything": {
+    "criteria": {
+      "farm_and_charm:stuffed_chicken": "2025-07-19 05:34:50 +0000",
+      "farm_and_charm:potato_soup": "2025-07-19 05:28:29 +0000",
+      "farm_and_charm:baked_lamb_ham": "2025-07-19 05:31:22 +0000"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/bake_everything": {
+    "criteria": {
+      "farm_and_charm:baked_lamb_ham": "2025-07-19 05:31:22 +0000",
+      "farm_and_charm:stuffed_chicken": "2025-07-19 05:34:50 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
