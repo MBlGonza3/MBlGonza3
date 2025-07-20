@@ -3356,6 +3356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-07-20 04:52:33 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/deepslate_pillar_trim": {
     "criteria": {
       "has_deepslate_pillar_trim": "2025-07-20 04:12:57 +0000"
@@ -3365,6 +3371,18 @@
   "supplementaries:recipes/deepslate_lamp": {
     "criteria": {
       "has_deepslate": "2025-07-20 04:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-07-20 04:52:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-07-20 04:49:03 +0000"
     },
     "done": true
   },
