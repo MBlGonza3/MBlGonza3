@@ -4369,6 +4369,7 @@
       "minecraft:blaze": "2025-07-17 04:47:32 +0000",
       "minecraft:magma_cube": "2025-07-06 01:40:54 +0000",
       "minecraft:creeper": "2025-07-20 03:59:00 +0000",
+      "minecraft:phantom": "2025-07-20 04:18:40 +0000",
       "minecraft:witch": "2025-07-02 03:53:52 +0000",
       "minecraft:husk": "2025-07-02 20:30:59 +0000",
       "minecraft:zombie": "2025-07-20 03:28:12 +0000"
@@ -9280,6 +9281,12 @@
     },
     "done": true
   },
+  "frightsdelight:recipes/building_blocks/phantom_crate": {
+    "criteria": {
+      "has_phantom_membrane": "2025-07-20 04:16:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-07-20 03:42:24 +0000"
@@ -9298,6 +9305,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-07-20 04:23:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-07-20 04:16:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-07-20 03:36:15 +0000"
@@ -9307,6 +9326,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-07-20 03:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-20 04:23:51 +0000"
     },
     "done": true
   },
