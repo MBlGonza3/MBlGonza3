@@ -4257,8 +4257,10 @@
       "rice": "2025-07-02 20:19:43 +0000",
       "beetroot": "2025-07-02 04:19:53 +0000",
       "cocoa": "2025-07-06 02:56:36 +0000",
+      "brown_mushroom": "2025-07-20 04:14:45 +0000",
       "sugar_cane": "2025-07-02 04:20:33 +0000",
       "potato": "2025-07-02 04:20:07 +0000",
+      "red_mushroom": "2025-07-20 04:14:39 +0000",
       "nether_wart": "2025-07-17 05:44:13 +0000",
       "wheat": "2025-07-02 02:56:18 +0000",
       "pumpkin": "2025-07-02 20:27:49 +0000",
@@ -9259,6 +9261,12 @@
       "farm_and_charm:stuffed_chicken": "2025-07-19 05:34:41 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-07-20 04:13:50 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
